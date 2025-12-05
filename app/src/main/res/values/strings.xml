@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">농담몬</string>
+    <string name="gill_gill_mon">낄낄몬</string>
+    <string name="hee_hee_mon">히히몬</string>
+    <string name="kick_kick_mon">킥킥몬</string>
+
+    <string name="home_title_text">당신의 농담몬과\n즐거운 하루 보내세요!</string>
+    <string name="home_do_joke_btn_text">재밌는 이야기 해줘! 🤣</string>
+    <string name="search_do_joke_btn_text">빵 터지는 농담 들려줘! 🤣</string>
+
+
+    <string name="error_internet_connect">인터넷 연결을 확인해주세요.</string>
+    <string name="error_unknown">"알 수 없는 오류가 발생했습니다.</string>
+    <string name="error_empty_data">데이터가 비어있습니다.</string>
+
+    <string name="nickname_edit_dialog_guide_msg">최대 6자까지 입력할 수 있어요</string>
+    <string name="good_nickname_msg">좋은 이름이에요</string>
+
+    <string name="saved_nickname_text">닉네임이 저장되었습니다.</string>
+
+    <string name="edit_character_nickname">농담몬 이름 짓기</string>
+    <string name="edit_character_nickname_hint">이름을 입력하세요</string>
+    <string name="cancel_btn">취소</string>
+    <string name="exit_btn">종료</string>
+    <string name="register_btn">등록</string>
+    <string name="ok_btn">확인</string>
+    
+    <string name="bespoke_joke">맞춤 농담</string>
+
+    <string name="joke_text">농담</string>
+
+    <string name="liked_joke">저장한 농담</string>
+    <string name="no_liked_joke_list">저장한 농담이 없습니다.</string>
+    <string name="recommend_like_joke">마음에 드는 농담을 저장해보세요!</string>
+
+    <string name="keyword_text_filed_hint">관심있는 키워드를 입력해보세요</string>
+
+    <string name="my_page_title">마이페이지</string>
+    <string name="recent_created_joke">최근 생성 농담</string>
+    
+    <string name="setting">설정</string>
+    <string name="notification_setting">알림 설정</string>
+    <string name="contact_us">문의</string>
+    <string name="purchase_recovery">구매 복구</string>
+
+    <string name="result_create_joke">농담 생성 결과</string>
+
+    <string name="all_text">전체</string>
+    <string name="joke_category_random">아무거나</string>
+    <string name="joke_category_1">요즘유행</string>
+    <string name="joke_category_2">아재감성</string>
+    <string name="joke_category_3">어이없잼</string>
+
+    <string name="generating_joke_placeholder">농담 생성중...</string>
+
+    <string name="share_to_friends">친구와 함께 웃기</string>
+    
+    <string name="copy_text">복사</string>
+    <string name="regeneration">재생성</string>
+
+    <string name="copied_joke">농담이 복사되었습니다.</string>
+
+    <string name="save_joke">농담이 저장되었습니다.</string>
+    <string name="un_save_joke">저장이 해제되었습니다.</string>
+
+    <string name="voice_male">남성 기본 목소리</string>
+    <string name="voice_female">여성 기본 목소리</string>
+    <string name="voice_quick">속사포 쇼츠 목소리</string>
+    <string name="voice_slow">느릿느릿 명상가 목소리</string>
+    <string name="voice_cute">귀여운 어린이 목소리</string>
+    <string name="voice_mystery">미스테리한 외계인 목소리</string>
+
+    <string name="voice_style_settings">음성 스타일 설정</string>
+    <string name="basic_voice">기본 음성</string>
+
+    <string name="transformation_voice">변신 음성</string>
+    <string name="transformation_voice_description">다양한 목소리로 농담을 더 재미있게 들어보세요!</string>
+
+    <string name="apply_text">적용</string>
+    <string name="detailed_adjustment">상세조정</string>
+    <string name="select_tone">톤 선택</string>
+    <string name="speed_text">속도</string>
+    
+    <string name="sort_order">정렬 순서</string>
+    <string name="sort_by_oldest">오래된 순</string>
+    <string name="sort_by_latest">최신순</string>
+
+    <string name="share_joke">농담몬 농담 공유\n\n</string>
+    <string name="move_to_app">\n\n앱에서 더 많은 농담 보기 👉 </string>
+
+    <string name="push_noti">푸시 알림</string>
+    <string name="notification_guide_msg">매일 오전 9시에 푸시알림을 보내드려요</string>
+
+    <string name="tts_sample_msg">안녕하세요</string>
+
+    <string name="no_recently_joke_list">최근에 생성한 농담이 없습니다.</string>
+    <string name="create_funny_jokes">재미있는 나만의 농담을 생성해보세요!</string>
+
+    <string name="select_character">농담몬 선택</string>
+    <string name="select_character_msg1">누구랑 놀까요?😜</string>
+    <string name="select_character_msg2">농담몬 캐릭터별로 달라지는 말투를 확인해보세요!</string>
+    <string name="select_character_button_text">농담몬, 너로 정했다!</string>
+    <string name="selected_character_snack_bar_msg">농담몬이 선택되었습니다.</string>
+
+    <string name="exit_dialog_title">농담몬 종료</string>
+    <string name="exit_dialog_msg">농담몬, 진짜로 안 볼 거예요…? 😢\n다음에 또 만나고 싶어요!</string>
+
+    <string name="write_review">리뷰 작성</string>
+    <string name="review_dialog_title">농담몬 리뷰 작성</string>
+    <string name="review_dialog_msg">여러분의 한마디가\n더 재밌는 농담을 만드는 힘이 돼요!\n소중한 리뷰 부탁드려요 🙏</string>
+
+    <string name="joke_category_1_prompt_title">요즘 유행 농담</string>
+    <string name="joke_category_2_prompt_title">아재 개그</string>
+    <string name="joke_category_3_prompt_title">어이 없는 농담</string>
+
+    <string name="joke_category_1_system_prompt">장난기 많고 유쾌한 말투 , 말끝에 ㅋㅋ 이나 푸하하~ 붙이기</string>
+    <string name="joke_category_2_system_prompt">다정하고 따뜻한 말투 , 존댓말로 ,말 끝에 ㅎㅎ 붙이기</string>
+    <string name="joke_category_3_system_prompt">엉뚱하고 짓궃은 말투 , 반말로 해야함, 친구에게 장난치듯이 , 말 끝에 킥킥 이나 풉! 킥킥 붙이기</string>
+
+
+    <string name="email_address">dalsootech@gmail.com</string>
+    <string name="email_title">농담몬 문의</string>
+    <string name="error_overloaded">농담몬이 지금 너무 바빠요 🤖\n잠시 후 다시 시도해주세요!</string>
+    <string name="error_joke_timeout">농담 생성 시간이 너무 오래 걸려요 😅</string>
+    <string name="error_not_install_email_app">이메일 앱이 설치 되지 않았습니다.</string>
+    <string name="error_default">에러가 발생했습니다.\n잠시후 다시 시도해주세요.</string>
+    <string name="error_tts_play">재생 중 문제가 발생했습니다 다시 시도해주세요.</string>
+    <string name="error_failed_create_joke">농담을 생성하지 못했습니다.</string>
+    <string name="error_wrong_approach">잘못된 접근입니다.</string>
+</resources>

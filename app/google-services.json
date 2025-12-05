@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057168940305",
+    "project_id": "jokemon-20f29",
+    "storage_bucket": "jokemon-20f29.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057168940305:android:74dedfa105d5c1e8cbc0b0",
+        "android_client_info": {
+          "package_name": "com.joke.mon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCWm0cEGf30jMbElwIM_9Ez8nNuwS0xcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
