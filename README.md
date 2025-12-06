@@ -71,9 +71,9 @@ data
 ---
 
 ## 주요 화면
-![joke_mon_screen_shot_1](https://github.com/user-attachments/assets/fb2cf242-b58e-4006-ad88-57781f830330) &nbsp; ![joke_mon_screen_shot_2](https://github.com/user-attachments/assets/4952160e-3122-4c71-b6dd-1cd1e23b43ee) &nbsp; ![joke_mon_screen_shot_3](https://github.com/user-attachments/assets/9d7a46bd-1f95-4c92-877e-ac9f3d62d40d)
-
-![joke_mon_screen_shot_4](https://github.com/user-attachments/assets/0236e148-d2cd-4e05-a3f6-ada7c24d9c2b) &nbsp; ![joke_mon_screen_shot_5](https://github.com/user-attachments/assets/9ef8dcbf-7604-4718-9b8c-4c2c510cf9d2) &nbsp; ![joke_mon_screen_shot_6](https://github.com/user-attachments/assets/bb2c8af1-d597-440e-8030-b06135cbe060)
+![joke_mon_screen_shot_1](https://github.com/user-attachments/assets/fb2cf242-b58e-4006-ad88-57781f830330) &nbsp; ![joke_mon_screen_shot_2](https://github.com/user-attachments/assets/4952160e-3122-4c71-b6dd-1cd1e23b43ee)
+![joke_mon_screen_shot_3](https://github.com/user-attachments/assets/9d7a46bd-1f95-4c92-877e-ac9f3d62d40d) &nbsp; ![joke_mon_screen_shot_4](https://github.com/user-attachments/assets/0236e148-d2cd-4e05-a3f6-ada7c24d9c2b) 
+![joke_mon_screen_shot_5](https://github.com/user-attachments/assets/9ef8dcbf-7604-4718-9b8c-4c2c510cf9d2) &nbsp; ![joke_mon_screen_shot_6](https://github.com/user-attachments/assets/bb2c8af1-d597-440e-8030-b06135cbe060)
 
 
 
