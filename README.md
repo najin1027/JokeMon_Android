@@ -1,4 +1,4 @@
-# 농담몬 (JokeMon)
+# 농담몬 - 심심할 때 웃긴 AI 랜덤 유머·농담 생성기
 AI 기반 농담 생성 & 음성 재생 Android 앱  
 Jetpack Compose + MVI + Firebase Functions + OpenAI + ElevenLabs
 
