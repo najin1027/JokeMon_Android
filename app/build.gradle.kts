@@ -36,7 +36,7 @@ android {
         }
 
         debug {
-            isMinifyEnabled = true
+            isMinifyEnabled = false
         }
     }
     compileOptions {
@@ -48,6 +48,7 @@ android {
     }
     buildFeatures {
         compose = true
+        buildConfig = true
     }
 }
 
@@ -77,7 +78,6 @@ dependencies {
 
     // Retrofit (Networking)
     implementation(libs.retrofit)
-    implementation(libs.retrofit.converter.gson)
     implementation(libs.okhttp.logging.interceptor)
 
     // Room (Local Database)
@@ -100,6 +100,7 @@ dependencies {
 
     // Serialization
     implementation(libs.kotlinx.serialization.json)
+    implementation(libs.retrofit.kotlinx.serialization)
 
     implementation(platform(libs.firebase.bom))
     implementation(libs.firebase.messaging.ktx)

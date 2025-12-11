@@ -6,5 +6,5 @@ import kotlinx.coroutines.flow.Flow
 
 interface ResultJokeRepository
 {
-    suspend fun fetchJoke(prompt : String) : Flow<Resource<JokeResponse>>
+    fun fetchJoke(prompt : String) : Flow<Resource<JokeResponse>>
 }

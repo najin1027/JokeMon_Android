@@ -6,5 +6,5 @@ import kotlinx.coroutines.flow.Flow
 
 interface HomeRepository
 {
-    suspend fun getKeyword() : Flow<Resource<KeywordResponse>>
+    fun getKeyword() : Flow<Resource<KeywordResponse>>
 }

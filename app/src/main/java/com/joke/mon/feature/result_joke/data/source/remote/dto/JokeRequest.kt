@@ -1,8 +1,10 @@
 package com.joke.mon.feature.result_joke.data.source.remote.dto
 
-import androidx.annotation.Keep
-import com.google.gson.annotations.SerializedName
+import kotlinx.serialization.SerialName
+import kotlinx.serialization.Serializable
+
+@Serializable
 data class JokeRequest(
-    @SerializedName("prompt")
+    @SerialName("prompt")
     val prompt: String
 )

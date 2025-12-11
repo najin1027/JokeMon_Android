@@ -249,13 +249,13 @@ fun RowScope.BottomBarItem(
             modifier = Modifier
                 .size(40.dp)
                 .clip(CircleShape)
-                .background(if (isSelected) Color.White else Color.Transparent), // 선택 상태에 따라 배경색 변경
+                .background(if (isSelected) Color.White else Color.Transparent),
             contentAlignment = Alignment.Center
         ) {
             Icon(
                 painter = if (isSelected) painterResource(item.selectionIcon)  else painterResource(item.unSelectionIcon),
                 contentDescription = item.title,
-                tint = if (isSelected) MaterialTheme.colorScheme.primary else GrayscaleWhite // 색상 변경
+                tint = if (isSelected) MaterialTheme.colorScheme.primary else GrayscaleWhite
             )
         }
     }

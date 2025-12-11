@@ -1,16 +1,17 @@
 package com.joke.mon.core.data.soruce.remote.dto
 
 import androidx.annotation.Keep
-import com.google.gson.annotations.SerializedName
+import kotlinx.serialization.SerialName
+import kotlinx.serialization.Serializable
 
-@Keep
+@Serializable
 data class ElevenLabsRequest(
-    @SerializedName("text")
+    @SerialName("text")
     val text: String,
-    @SerializedName("voiceId")
+    @SerialName("voiceId")
     val voiceId: String,
-    @SerializedName("style")
+    @SerialName("style")
     val style: Double,
-    @SerializedName("stability")
+    @SerialName("stability")
     val stability: Double
 )

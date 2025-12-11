@@ -19,7 +19,7 @@ class HomeRepositoryImpl @Inject constructor(
     @ApplicationContext private val context: Context,
     private val homeApiService: HomeApiService) : HomeRepository
 {
-    override suspend fun getKeyword(): Flow<Resource<KeywordResponse>>  = flow {
+    override  fun getKeyword(): Flow<Resource<KeywordResponse>>  = flow {
         emit(Resource.Loading())
 
         try {

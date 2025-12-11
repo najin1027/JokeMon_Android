@@ -13,11 +13,10 @@ import kotlinx.coroutines.flow.flow
 import javax.inject.Inject
 
 class ResultJokeRepositoryImpl @Inject constructor(
-    @ApplicationContext private val context: Context,
     private val resultJokeApiService: ResultJokeApiService
 ) : ResultJokeRepository
 {
-    override suspend fun fetchJoke(prompt : String): Flow<Resource<JokeResponse>>  = flow {
+    override fun fetchJoke(prompt : String): Flow<Resource<JokeResponse>>  = flow {
         emit(Resource.Loading())
 
         try {

@@ -1,7 +1,10 @@
 package com.joke.mon.feature.result_joke.data.source.remote.dto
 
-import com.google.gson.annotations.SerializedName
+import kotlinx.serialization.SerialName
+import kotlinx.serialization.Serializable
+
+@Serializable
 data class JokeResponse(
-    @SerializedName("result")
+    @SerialName("result")
     val jokeResult : String
 )
