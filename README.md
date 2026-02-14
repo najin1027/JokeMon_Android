@@ -122,17 +122,17 @@ data
 
 **Repository Tests (3개)**
 
-- ✅ **LikeRepositoryImplTest**: 즐겨찾기 Repository (8개 테스트)
-- ✅ **HomeRepositoryImplTest**: 홈 Repository (7개 테스트)
-- ✅ **RecentJokeRepositoryImplTest**: 최근 농담 Repository (9개 테스트)
+- **LikeRepositoryImplTest**: 즐겨찾기 Repository (8개 테스트)
+- **HomeRepositoryImplTest**: 홈 Repository (7개 테스트)
+- **RecentJokeRepositoryImplTest**: 최근 농담 Repository (9개 테스트)
 
 **ViewModel Tests (5개)**
 
-- ✅ **HomeViewModelTest**: 홈 화면 MVI 로직 (9개 테스트)
-- ✅ **LikeViewModelTest**: 즐겨찾기 화면 로직 (12개 테스트)
-- ✅ **RecentJokeViewModelTest**: 최근 농담 화면 로직 (11개 테스트)
-- ✅ **SearchViewModelTest**: 검색 화면 로직 (15개 테스트)
-- ✅ **MyPageViewModelTest**: 마이페이지 로직 (8개 테스트)
+- **HomeViewModelTest**: 홈 화면 MVI 로직 (9개 테스트)
+- **LikeViewModelTest**: 즐겨찾기 화면 로직 (12개 테스트)
+- **RecentJokeViewModelTest**: 최근 농담 화면 로직 (11개 테스트)
+- **SearchViewModelTest**: 검색 화면 로직 (15개 테스트)
+- **MyPageViewModelTest**: 마이페이지 로직 (8개 테스트)
 
 ### 테스트 기술 스택
 
